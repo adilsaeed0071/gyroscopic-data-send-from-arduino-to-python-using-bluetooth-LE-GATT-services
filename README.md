@@ -1,0 +1,1 @@
+# gyroscopic-data-send-from-arduino-to-python-using-bluetooth-LE-GATT-services
